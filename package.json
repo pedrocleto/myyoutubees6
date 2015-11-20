@@ -1,0 +1,30 @@
+{
+  "name": "myyoutubees6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedrocleto/myyoutubees6.git"
+  },
+  "author": "PCM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrocleto/myyoutubees6/issues"
+  },
+  "homepage": "https://github.com/pedrocleto/myyoutubees6",
+  "devDependencies": {
+    "babel-core": "^6.1.2",
+    "babel-loader": "^6.0.1",
+    "babel-preset-es2015": "^6.1.2",
+    "css-loader": "^0.22.0",
+    "node-sass": "^3.4.1",
+    "sass-loader": "^3.1.1",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1"
+  }
+}
